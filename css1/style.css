@@ -1,0 +1,57 @@
+.container{
+  padding: 0 45px 0 45px;
+}
+
+.one{
+ word-spacing: 1em;
+ text-align: center;
+ background: #080000;
+ color: rgb(254, 255, 255);
+ 
+}
+div{   
+    word-spacing: 1em;
+    background-color: white;
+    text-align: center;
+    font-family:cursive;
+    text-align: center;
+}
+.three{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+ 
+
+.imgs-row{
+  display: flex;
+  justify-content: center;
+}
+
+.imgs-row div{
+  margin: 20px;
+  height: 200px;
+  width: 200px;
+}
+
+.imgs-row div img{
+  height: inherit;
+  width: inherit;
+}
+.imgs-row2{
+  display: flex;
+  justify-content: center;
+}
+
+.imgs-row2 div{
+  margin: 20px;
+  height: 200px;
+  width: 200px;
+}
+
+.imgs-row2 div img{
+  height: inherit;
+  width: inherit;
+}
